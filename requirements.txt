@@ -1,0 +1,8 @@
+torch==2.9.0+cu126
+torchvision==0.24.0+cu126
+torchaudio==2.9.0+cu126   # opcional, si usas audio (puedes quitarlo)
+numpy==2.0.2
+pandas==2.2.2
+scikit-learn==1.6.1
+matplotlib==3.10.0
+tqdm==4.67.1
